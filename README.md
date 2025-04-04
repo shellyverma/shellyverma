@@ -25,11 +25,7 @@
     <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shellyverma&show_icons=true&locale=en&layout=compact" alt="shellyverma" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shellyverma&show_icons=true&locale=en" alt="shellyverma" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shellyverma&" alt="shellyverma" /></p>
 
 <h3 align="left">GSSoC(24) Badges 🪶</h3>
 <div style='display:flex; align-items:center; gap: 10px;' align='center'>
