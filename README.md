@@ -45,11 +45,6 @@
 
 ---
 
-### 📊 GitHub Stats
-![Shelly's GitHub stats](https://github-readme-stats.vercel.app/api?username=shellyverma&show_icons=true&theme=tokyonight)
-
----
-
 ### 🤝 Connect with Me
 - 💼 LinkedIn: https://www.linkedin.com/in/shelly-verma-267718255/
 - 💻 GitHub: https://github.com/shellyverma
