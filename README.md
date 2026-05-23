@@ -7,7 +7,7 @@
 - 🎓 Final-year CSE student at JSS Academy of Technical Education, Noida  
 - 💻 Passionate about Backend & Full-Stack Development  
 - 🌱 Currently learning advanced Spring Boot & System Design  
-- 🚀 Ex-GSSoC '24 Contributor | GSSoC '26 Applicant  
+- 🚀 Ex-GSSoC '24 Contributor | GSSoC '26 Contributor  
 - 📫 Reach me at: **shellyverma1015@gmail.com**
 
 ---
